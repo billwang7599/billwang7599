@@ -2,10 +2,6 @@
 <h3 align="center">software engineering student @UW</h3>
 
 - 📫 How to reach me **billwang7599@gmail.com**
-
-- ⚡ Fun fact **I play frisbee**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
