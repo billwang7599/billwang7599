@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bill</h1>
 <h3 align="center">software engineering student @UW</h3>
 
-- 🔭 I’m currently working on [my SE101 design project](https://github.com/billwang7599/SE101_BWWB)
-
 - 📫 How to reach me **billwang7599@gmail.com**
 
 - ⚡ Fun fact **I play frisbee**
