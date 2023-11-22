@@ -25,7 +25,7 @@
   ---
 
   <h3>software engineering student @ uWaterloo</h3>
-  <a href="mailto:billwang7599@gmail.com">📧 reach me at my email !</a>
+  📧  <a href="mailto:billwang7599@gmail.com">reach me at my email !</a>
 
  
 </div>
