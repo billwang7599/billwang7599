@@ -25,7 +25,7 @@
   ---
 
   <h3>software engineering student @ uWaterloo</h3>
-  📧  <a href="mailto:billwang7599@gmail.com" style="text-decoration:none" >reach me at my email !</a>
+  📧  <a href="mailto:billwang7599@gmail.com" target="_blank" style="text-decoration:none" >reach me at my email !</a>
 
  
 </div>
